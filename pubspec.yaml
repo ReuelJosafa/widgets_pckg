@@ -1,7 +1,7 @@
 name: widgets_pckg
 description: Pacote de widgets.
 version: 1.0.0
-homepage:
+homepage: https://github.com/ReuelJosafa/widgets_pckg
 
 environment:
   sdk: ">=2.16.1 <3.0.0"
