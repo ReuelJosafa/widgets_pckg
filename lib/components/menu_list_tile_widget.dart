@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 
 class MenuListTileWiget extends StatelessWidget {
   final bool hasPermission;
-
   final Icon? icon;
   final String title;
   final bool isSelected;
